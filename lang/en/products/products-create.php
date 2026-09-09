@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'create_product' => 'Create Product',
+    'new_product' => 'New Product',
+    'fill_fields_below' => 'Fill the fields below',
+
+    'product_name' => 'Product Name',
+    'enter_product_name' => 'Enter Product Name...',
+    'brand' => 'Brand',
+    'enter_brand_name' => 'Enter Brand Name...',
+    'price' => 'Price',
+    'type' => 'Type',
+    'select_category' => '-- Select a Category --',
+
+    'electronics' => 'Electronics',
+    'clothing' => 'Clothing',
+    'footwear' => 'Footwear',
+    'accessories' => 'Accessories',
+    'home_kitchen' => 'Home & Kitchen',
+    'furniture' => 'Furniture',
+    'beauty_personal_care' => 'Beauty & Personal Care',
+    'health_wellness' => 'Health & Wellness',
+    'sports_outdoors' => 'Sports & Outdoors',
+    'toys_games' => 'Toys & Games',
+    'books' => 'Books',
+    'office_supplies' => 'Office Supplies',
+    'automotive' => 'Automotive',
+    'pet_supplies' => 'Pet Supplies',
+    'food_beverages' => 'Food & Beverages',
+    'jewelry' => 'Jewelry',
+    'watches' => 'Watches',
+    'baby_products' => 'Baby Products',
+    'garden_outdoor' => 'Garden & Outdoor',
+    'tools_hardware' => 'Tools & Hardware',
+    'art_crafts' => 'Art & Crafts',
+    'musical_instruments' => 'Musical Instruments',
+    'software' => 'Software',
+    'digital_products' => 'Digital Products',
+    'gift_cards' => 'Gift Cards',
+
+    'initial_stock' => 'Initial Stock',
+    'description' => 'Description',
+    'pictures' => 'Pictures',
+
+    'create_product_button' => 'Create product',
+    'cancel' => 'Cancel',
+];

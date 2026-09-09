@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'create_product' => 'Krijo Produkt',
+    'new_product' => 'Produkt i Ri',
+    'fill_fields_below' => 'Plotësoni fushat më poshtë',
+
+    'product_name' => 'Emri i Produktit',
+    'enter_product_name' => 'Shkruani emrin e produktit...',
+    'brand' => 'Marka',
+    'enter_brand_name' => 'Shkruani emrin e markës...',
+    'price' => 'Çmimi',
+    'type' => 'Lloji',
+    'select_category' => '-- Zgjidhni një Kategori --',
+
+    'electronics' => 'Elektronikë',
+    'clothing' => 'Veshje',
+    'footwear' => 'Këpucë',
+    'accessories' => 'Aksesorë',
+    'home_kitchen' => 'Shtëpi & Kuzhinë',
+    'furniture' => 'Mobilje',
+    'beauty_personal_care' => 'Bukuri & Kujdes Personal',
+    'health_wellness' => 'Shëndet & Mirëqenie',
+    'sports_outdoors' => 'Sport & Aktivitete në Natyrë',
+    'toys_games' => 'Lodra & Lojëra',
+    'books' => 'Libra',
+    'office_supplies' => 'Pajisje Zyre',
+    'automotive' => 'Automjete',
+    'pet_supplies' => 'Furnizime për Kafshë Shtëpiake',
+    'food_beverages' => 'Ushqime & Pije',
+    'jewelry' => 'Bizhuteri',
+    'watches' => 'Ora',
+    'baby_products' => 'Produkte për Foshnje',
+    'garden_outdoor' => 'Kopsht & Ambient i Jashtëm',
+    'tools_hardware' => 'Vegla & Pajisje Pune',
+    'art_crafts' => 'Art & Punime me Dorë',
+    'musical_instruments' => 'Instrumente Muzikore',
+    'software' => 'Programe Kompjuterike',
+    'digital_products' => 'Produkte Dixhitale',
+    'gift_cards' => 'Karta Dhuratë',
+
+    'initial_stock' => 'Stoku Fillestar',
+    'description' => 'Përshkrimi',
+    'pictures' => 'Fotografitë',
+
+    'create_product_button' => 'Krijo produktin',
+    'cancel' => 'Anulo',
+];
